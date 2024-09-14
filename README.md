@@ -1,6 +1,6 @@
 ### Hi, I'm Álvaro! 🫡
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1lvaro-mendes-13146a228/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/álvaromendes/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvaromendes2005@gmail.com)
 
 ![alvwsk GitHub stats](https://github-readme-stats.vercel.app/api?username=alvwsk&show_icons=true&theme=dark)
